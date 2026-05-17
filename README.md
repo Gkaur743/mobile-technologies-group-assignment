@@ -1,1 +1,4 @@
-# mobile-technologies-group-assignment
+Group members:
+u3284283
+u3294293
+u3257410
